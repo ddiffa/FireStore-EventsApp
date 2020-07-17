@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922243043208",
+    "firebase_url": "https://events-96e7e.firebaseio.com",
+    "project_id": "events-96e7e",
+    "storage_bucket": "events-96e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922243043208:android:7c48ce9c500ac0434eb43d",
+        "android_client_info": {
+          "package_name": "dev.hellodiffa.events_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922243043208-ksiggeq3a8c846oo05ckqo804g3kt6ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg1FbORClwxtty5w3tL-BHHIL1psyR-so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922243043208-ksiggeq3a8c846oo05ckqo804g3kt6ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
